@@ -14,7 +14,6 @@ import org.springframework.web.filter.CorsFilter;
 import java.util.Collections;
 import java.util.stream.Stream;
 
-// @EnableResourceServer
 @SpringBootApplication
 public class DemoApplication {
 
